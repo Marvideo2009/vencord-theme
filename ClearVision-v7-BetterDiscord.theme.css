@@ -4,12 +4,12 @@
  * @version 7.0.1
  * @description Highly customizable theme for BetterDiscord.
  * @source https://github.com/ClearVision/ClearVision-v7
- * @website https://clearvision.github.io
+ * @website https://marvideo2009.github.io/vencord-theme/
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://marvideo2009.github.io/vencord-theme/main.css");
+@import url("https://marvideo2009.github.io/vencord-theme/betterdiscord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */

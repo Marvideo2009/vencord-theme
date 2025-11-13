@@ -1,5 +1,5 @@
 /**
- * @name ClearVision V7 Halloween for BetterDiscord
+ * @name ClearVision V7 Winter for BetterDiscord
  * @author ClearVision Team
  * @version 7.0.1
  * @description Highly customizable theme for BetterDiscord.
@@ -9,14 +9,14 @@
  */
 
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://marvideo2009.github.io/vencord-theme/main.css");
+@import url("https://marvideo2009.github.io/vencord-theme/betterdiscord.css");
 
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #e67a27; /* main accent color (hex, rgb or hsl) [default: #e67a27] */
-  --hover-color: #b35d1e; /* hover accent color (hex, rgb or hsl) [default: #b35d1e] */
+  --main-color: #66aacc; /* main accent color (hex, rgb or hsl) [default: #66aacc] */
+  --hover-color: #447799; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* positive accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   
@@ -26,10 +26,10 @@
   --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
   --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
-
+  
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://clearvision.github.io/images/halloween.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/halloween.jpg)]*/
+  --background-image: url(https://clearvision.github.io/images/winter.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/winter.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
@@ -65,7 +65,7 @@
   --channel-selected-bg: var(--main-color); /* selected channel background [default: var(--main-color)] */
   --channel-unread: var(--main-color); /* unread channel text color [default: var(--main-color)] */
   --channel-unread-hover: var(--hover-color); /* unread channel hover color [default: var(--hover-color)] */
-  
+
   /* ACCESSIBILITY */
   --focus-color: var(--main-color); /* outline when pressing TAB key [default: var(--main-color)] */
 }

@@ -1,16 +1,16 @@
 /**
- * @name ClearVision V7 Winter for BetterDiscord
+ * @name ClearVision V7 Winter for Vencord
  * @author ClearVision Team
  * @version 7.0.1
- * @description Highly customizable theme for BetterDiscord.
+ * @description Highly customizable theme for Vencord.
  * @source https://github.com/ClearVision/ClearVision-v7
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  */
 
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://marvideo2009.github.io/vencord-theme/main.css");
+@import url("https://marvideo2009.github.io/vencord-theme/vencord.css");
 
 /* SETTINGS */
 :root {

@@ -1,22 +1,22 @@
 /**
- * @name ClearVision V7 Amber for BetterDiscord
+ * @name ClearVision V7 Amethyst for Vencord
  * @author ClearVision Team
  * @version 7.0.1
- * @description Highly customizable theme for BetterDiscord.
+ * @description Highly customizable theme for Vencord.
  * @source https://github.com/ClearVision/ClearVision-v7
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  */
-
+ 
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://marvideo2009.github.io/vencord-theme/main.css");
+@import url("https://marvideo2009.github.io/vencord-theme/vencord.css");
 
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #e67a27; /* main accent color (hex, rgb or hsl) [default: #e67a27] */
-  --hover-color: #b35d1e; /* hover accent color (hex, rgb or hsl) [default: #b35d1e] */
+  --main-color: #da27e6; /* main accent color (hex, rgb, or hsl) [default: #da27e6] */
+  --hover-color: #a71eb3; /* hover accent color (hex, rgb, or hsl) [default: #a71eb3] */
   --success-color: #43b581; /* positive accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   
@@ -28,8 +28,8 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* APP BACKGROUND */
-  --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://clearvision.github.io/images/amber.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/amber.jpg)]*/
+  --background-shading-percent: 100%; /* background shading amount (0 for complete smoothness) [default: 100%] */
+  --background-image: url(https://clearvision.github.io/images/amethyst.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/amethyst.jpg)] */
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
